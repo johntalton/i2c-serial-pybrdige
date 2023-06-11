@@ -1,4 +1,5 @@
-bus0="true"
+bus0="false"
 bus1="true"
+bitbangBus="false"
 
 neo_brightness_percent=2

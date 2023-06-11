@@ -1,0 +1,10 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportShadowedImports": "none"
+  },
+  "cSpell.words": [
+    "busio",
+    "digitalio",
+    "neopixel"
+  ]
+}
